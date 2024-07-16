@@ -1,7 +1,7 @@
 # quranApp
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/bef387ff-a710-4ce7-9d1d-3de56f1fdc48" width ="650">
+<img src="https://github.com/user-attachments/assets/bef387ff-a710-4ce7-9d1d-3de56f1fdc48" width ="500">
 
 <img src="https://github.com/user-attachments/assets/a53edc96-60dd-4b07-b6c5-02c355aa5453" width ="650">
 
