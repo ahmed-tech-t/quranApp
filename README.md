@@ -1,13 +1,13 @@
 # quranApp
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/bef387ff-a710-4ce7-9d1d-3de56f1fdc48" width ="650"></br>
+<img src="https://github.com/user-attachments/assets/bef387ff-a710-4ce7-9d1d-3de56f1fdc48" width ="650">
 </p>
 
-<img src="https://github.com/user-attachments/assets/a53edc96-60dd-4b07-b6c5-02c355aa5453" width ="650"></br>
+<img src="https://github.com/user-attachments/assets/a53edc96-60dd-4b07-b6c5-02c355aa5453" width ="650">
 </p>
 
-<img src="https://github.com/user-attachments/assets/75d122ea-a247-41af-8721-49e32598e313" width ="650"></br>
+<img src="https://github.com/user-attachments/assets/75d122ea-a247-41af-8721-49e32598e313" width ="650">
 </p>
 
 <img src="" width ="650"></br>
